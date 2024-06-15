@@ -1,6 +1,6 @@
-• Hello guys 👋
-• I'm currently learning Asp.NetCore/.Net
-• I have skills in developing on SQL Server, HTML, CSS, JavaScript, .NET, and Asp.NetCore
+## • Hello guys 👋
+## • I'm currently learning Asp.NetCore/.Net
+## • I have skills in developing on SQL Server, HTML, CSS, JavaScript, .NET, and Asp.NetCore
 ![american-psycho-patrick-bateman](https://github.com/MrFarbodMirzaee/MrFarbodMirzaee/assets/134764233/e955d515-653c-40eb-a809-1abdc25ae62e)
 
 
