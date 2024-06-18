@@ -1,5 +1,5 @@
 ## • Hello guys 👋
-![Uploading Ryan_.gif…]()
+![Uploading Ryan_.gif…](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pinterest.com%2Fpin%2F419749627762986504%2F&psig=AOvVaw1bqBouQv8S0zSbPrWf-pIi&ust=1718832567595000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDO3LyM5oYDFQAAAAAdAAAAABAT)
 
 ## • I'm currently learning Asp.NetCore/.Net
 ## • I have skills in developing on SQL Server, HTML, CSS, JavaScript, .NET, and Asp.NetCore
