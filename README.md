@@ -1,5 +1,4 @@
 ## • Hello guys 👋
-![Ryan_](https://github.com/MrFarbodMirzaee/MrFarbodMirzaee/assets/134764233/1961b7dd-732f-4a1c-b45e-c980b658a95c)
 
 
 ## • I'm currently learning Asp.NetCore/.Net
