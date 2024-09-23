@@ -29,7 +29,7 @@
   </a>
 </div>
 <hr/>
-<div align>
+<div>
      <h4 align="center">Application-Tools</h4>
   <p align="center">
   <a href="https://skillicons.dev">
@@ -50,12 +50,15 @@
   </a>
 </p>
   <hr/>
-  <h4 align="center">DataBases</h4>
-  <hr/>
+  <h4 align="center">Databases</h4>
+<p align="center">
+  <img style="height:40px; width:auto;" src="https://github.com/user-attachments/assets/f20a10ee-c4f8-45f3-8d2a-891fc9e1343f" alt="Database Icon"/> 
+</p>
+<hr/>
   <h4 align="center">Web Design Languages-Tools</h4>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap" />
+    <img  src="https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap" />
   </a>
 </p>
   <hr/>
