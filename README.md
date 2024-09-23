@@ -6,6 +6,10 @@
     </a>
   </h1>
 </div>
+<div align="center">
+  <p>🔭 I’m currently working on Smartvest StartUp</p>
+  <p>🌱I’m currently learning Cloud</p>
+</div>
 <h4 align="center">Contact me</h4>
 <div align="center">
   <a href="mailto:mr.farbodmirzaee@gmail.com">
@@ -19,6 +23,9 @@
   </a>
   <a href="www.linkedin.com/in/farbod-mirzaee">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/farbod-mirzaee">
+    <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 <hr/>
@@ -42,6 +49,8 @@
     <img src="https://skillicons.dev/icons?i=dotnet,cs,js" />
   </a>
 </p>
+  <hr/>
+  <h4 align="center">DataBases</h4>
   <hr/>
   <h4 align="center">Web Design Languages-Tools</h4>
   <p align="center">
