@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/farbod-mirzaee/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://discord.com/users/1126034346265038898">
     <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
