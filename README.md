@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <p>🔭 I’m currently working on Smartvest StartUp</p>
-  <p>🌱I’m currently learning Cloud</p>
+  <p>🌱I love english</p>
 </div>
 <h4 align="center">Contact me</h4>
 <div align="center">
