@@ -30,10 +30,12 @@
 </div>
 <hr/>
 <div>
-     <h4 align="center">Application-Tools</h4>
+   <h4 align="center">Application-Tools</h4>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,postman" />
+    <img style="height:40px; width:auto; display:inline-block;" src="https://github.com/user-attachments/assets/f823a014-bbf0-4172-ba7d-10d1b5642166" />
+  <img style="height:40px; width:auto; display:inline-block;" src="https://github.com/user-attachments/assets/1c79f741-74ae-47a6-b373-63a040d62a71" />
   </a>
     <hr/>
     <h4 align="center">Version Control</h4>
