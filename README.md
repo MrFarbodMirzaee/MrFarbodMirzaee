@@ -38,7 +38,7 @@
   <img style="height:40px; width:auto; display:inline-block;" src="https://github.com/user-attachments/assets/1c79f741-74ae-47a6-b373-63a040d62a71" />
   </a>
     <hr/>
-    <h4 align="center">Version Control</h4>
+    <h4 align="center">Version Controls</h4>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
