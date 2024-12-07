@@ -9,6 +9,7 @@
 <div align="center">
   <p>🔭 I’m currently working on Smartvest StartUp</p>
   <p>🌱I love english</p>
+  <p>Main stack .Net-Asp.NetCore</p>
 </div>
 <h4 align="center">Contact me</h4>
 <div align="center">
