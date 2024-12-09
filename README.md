@@ -42,7 +42,7 @@
     <h4 align="center">Version Controls</h4>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
 <hr/>
