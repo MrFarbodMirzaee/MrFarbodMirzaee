@@ -7,7 +7,6 @@
   </h1>
 </div>
 <div align="center">
-  <p>🔭 I’m currently working on Smartvest StartUp</p>
   <p>🌱I love english</p>
   <p>Main stack .Net-Asp.NetCore</p>
 </div>
