@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <p>🌱I love english</p>
-  <p>Main stack .Net-Asp.NetCore</p>
+  <p>Main stack .Net&Asp.NetCore</p>
 </div>
 <h4 align="center">Contact me</h4>
 <div align="center">
