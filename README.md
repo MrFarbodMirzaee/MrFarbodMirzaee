@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MrFarbodMirzaee.MrFarbodMirzaee"/>
 <div align="center">
   <h1 style="font-family: 'Consolas', monospace;">
     <a href="https://git.io/typing-svg">   
