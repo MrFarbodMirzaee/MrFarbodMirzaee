@@ -60,6 +60,7 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=MrFarbodMirzaee&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api?username=MrFarbodMirzaee&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFarbodMirzaee&layout=compact&theme=dark" />
 </div>
 
 <!--
