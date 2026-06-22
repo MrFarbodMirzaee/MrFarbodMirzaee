@@ -50,7 +50,7 @@
   </a>
 </p>
   <hr/>
-  <h4 align="center">Databases</h4>
+  <h4 align="center">Databases & Clouds</h4>
 <p align="center">
   <img style="height:40px; width:auto;" src="https://github.com/user-attachments/assets/f20a10ee-c4f8-45f3-8d2a-891fc9e1343f" alt="Database Icon"/> 
 </p>
