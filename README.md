@@ -6,7 +6,6 @@
   </h1>
 </div>
 <div align="center">
-  <p>🌱I Love English</p>
   <p>Main Stack .Net/C#</p>
 </div>
 <h4 align="center">Contact me</h4>
