@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-family: 'Consolas', monospace;">
     <a href="https://git.io/typing-svg">   
-      <img src="https://readme-typing-svg.demolab.com/?center=true&size=35&color=FFFF00&duration=4500&lines=Hi+There;I'm+Farbod+Mirzaee;I'm+Backend+Developer;"/>
+      <img src="https://readme-typing-svg.demolab.com/?center=true&size=35&color=FFFF00&duration=4500&lines=Hi+There!;I'm+Farbod+Mirzaee;I'm+Backend+Developer;"/>
     </a>
   </h1>
 </div>
