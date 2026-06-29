@@ -8,7 +8,7 @@
 <div align="center">
   <p>Main Stack .Net/C#</p>
 </div>
-<h4 align="center">Contact me</h4>
+<h4 align="center">Reach me at :</h4>
 <div align="center">
   <a href="mailto:mr.farbodmirzaee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
