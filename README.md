@@ -47,6 +47,13 @@
   </a>
 </p>
   <hr/>
+    <h4 align="center">CLIs</h4>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
+  <hr/>
   <h4 align="center">Web Design & Frame-works</h4>
   <p align="center">
   <a href="https://skillicons.dev">
